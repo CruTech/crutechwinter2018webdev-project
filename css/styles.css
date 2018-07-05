@@ -30,3 +30,22 @@ h1 {
 	font-family: Tahoma;
 	color: cadetblue;
 }
+
+.links {
+	text-align: center;
+}
+
+.links img {
+	padding: 20px;
+}
+
+video {
+	width: 700px;
+	height: 400px;
+}
+
+/* Lightbulb */
+.lightbulb {
+	padding: 110px;
+	text-align: center;
+}
